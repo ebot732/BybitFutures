@@ -1,7 +1,7 @@
 # BybitFutures
 trading bot for exchange Bybit
 
-Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-18).
+Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
@@ -12,11 +12,11 @@ screen -S BybitFutures
 4. Заходим в папку BybitFutures командой:  
 cd BybitFutures
 5. Скачиваем бота в папку BybitFutures командой:  
-wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-18/BybitFutures-18
+wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-19/BybitFutures-19
 6. Даём права на запуск бота командой:  
-chmod 755 BybitFutures-18
+chmod 755 BybitFutures-19
 7. Запускаем  бота командой:  
-./BybitFutures-18  
+./BybitFutures-19  
 и следуем подсказкам.
 8. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
