@@ -1,7 +1,8 @@
 # BybitFutures
 trading bot for exchange Bybit
 
-Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).
+Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).   
+Можно выбирать реальную или тестовую биржу (https://testnet.bybit.com/).    
 
 Запуск бота на VPS с ubuntu
 1. Подключаемся к серверу и по умолчанию находимся в корневом каталоге.
