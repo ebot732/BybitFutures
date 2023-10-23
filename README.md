@@ -1,5 +1,5 @@
 # BybitFutures
-trading bot for Bybit exchange.
+Trading bot for Bybit exchange.
 
 Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-19).   
 Бот работает только на стандартном торговом аккаунте (не на едином торговом аккаунте).      
