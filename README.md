@@ -15,7 +15,7 @@ screen -S BybitFutures
 cd BybitFutures
 5. Скачиваем бота в папку BybitFutures командой:  
 wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-20/BybitFutures-20
-(или wgethttps://github.com/ebot732/BybitFutures/releases/download/BybitFutures-20/BybitFutUTA-20 , если у вас единый торговый аккаунт).
+(или wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-20/BybitFutUTA-20 , если у вас единый торговый аккаунт).
 7. Даём права на запуск бота командой:  
 chmod 755 BybitFutures-20
 8. Запускаем  бота командой:  
