@@ -2,7 +2,7 @@
 Trading bot for Bybit exchange.     
 При регистрации на бирже по рефссылке использование бота бесплатное.   
  ( реф ссылка для регистрации: https://www.bybit.com/invite?ref=8E183W )    
-Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-21).   
+Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-22).   
 Для использования с типом аккаунта Unified trading account установите параметр Account_Type в: Unified TA, с типом аккаунта Classic trading account в: Classic TA.
 Можно выбирать реальную или тестовую биржу (https://testnet.bybit.com/).    
 
