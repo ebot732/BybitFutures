@@ -36,11 +36,11 @@ screen -S BybitFutures
 4. Заходим в папку BybitFutures командой:  
 cd BybitFutures
 5. Скачиваем бота в папку BybitFutures командой:  
-wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-21/BybitFutures-21    
+wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-22/BybitFutures-22    
 7. Даём права на запуск бота командой:  
-chmod 755 BybitFutures-21
+chmod 755 BybitFutures-2
 8. Запускаем  бота командой:  
-./BybitFutures-21  
+./BybitFutures-22  
 и следуем подсказкам.
 9. Выходим из работающего screen, не прерывая его работу, командой:  
 ctrl+a, d (при нажатой ctrl жмем а, отпускаем их, и затем жмем d)
