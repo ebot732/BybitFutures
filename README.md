@@ -38,7 +38,7 @@ cd BybitFutures
 5. Скачиваем бота в папку BybitFutures командой:  
 wget https://github.com/ebot732/BybitFutures/releases/download/BybitFutures-22/BybitFutures-22    
 7. Даём права на запуск бота командой:  
-chmod 755 BybitFutures-2
+chmod 755 BybitFutures-22
 8. Запускаем  бота командой:  
 ./BybitFutures-22  
 и следуем подсказкам.
