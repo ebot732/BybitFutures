@@ -1,5 +1,7 @@
 # BybitFutures
 Trading bot for Bybit exchange.     
+Сайт ботов: https://ebot732.github.io/   
+
 При регистрации на бирже по рефссылке использование бота бесплатное.   
  ( реф ссылка для регистрации: https://www.bybit.com/invite?ref=8E183W )    
 Бот для торговли на криптобирже Bybit фьючерсами USDT Perpetual (аналог BinFutures-22).   
